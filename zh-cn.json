@@ -2834,7 +2834,7 @@
         "Temporary.MMC.VoteInvalid": "无效投票, 请重试。",
 
         "CloudHome.WelcomeHome": "欢迎回家",
-        "CloudHome.TargetRangeOptions": "目标范围选项",
+        "CloudHome.TargetRangeOptions": "靶场选项",
 
         "Tutorial.Saving.Title": "欢迎回家！",
         "Tutorial.Saving.Content": "欢迎来到您的 <b><i><color=hero.yellow>家园</b></i></color> 世界！这是您每次登录后所来到的地方。<br><br>这是一个您自己的世界, 您可以保存任何所作的更改。<br><br>如果您保存了, 当您下次回来时, 一切将与您离开时一模一样！",
